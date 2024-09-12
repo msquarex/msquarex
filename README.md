@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-  ## ⚡ Languages and Frameworks
+<h2>⚡ Languages and Frameworks</h2>
 <table>
   <tr>
     <td>Programming Languages</td>
@@ -57,15 +57,20 @@
 ###
 
 <div align="left">
+  <h2>👀 Connect with me</h2>
+  <a href="mailto:mittal.madhav12Agmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href ="https://www.linkedin.com/in/madhav-mittal-4368b7313/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/msquarex/msquarex/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IdkwhatImD0ing/IdkwhatImD0ing/output/snake.svg" alt="Snake animation" />
 
 ###
 
